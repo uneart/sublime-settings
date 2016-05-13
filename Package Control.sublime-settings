@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Expand Selection to Quotes",
+		"FindKeyConflicts",
+		"Gist",
+		"HTML5",
+		"jQuery",
+		"LaTeX Snippets",
+		"LaTeXTools",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Open URL",
+		"Package Control",
+		"Search WordPress Codex or QueryPosts",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"Theme - Cobalt2",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}
