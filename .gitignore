@@ -68,4 +68,5 @@ $RECYCLE.BIN/
 !.gitignore
 !*.sublime-settings
 !*.sublime-keymap
+!*.sublime-menu
 !*.sublime-snippet
