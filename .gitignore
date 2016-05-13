@@ -58,6 +58,13 @@ $RECYCLE.BIN/
 ###############################################
 # PROJECT SPECIFIC FILES
 ###############################################
+# Exlude all files and folders
 *
+
+# Don't ignore folders
+!*/
+
+# Don't ignore the following filetypes
 !.gitignore
 !*.sublime-settings
+!*.sublime-snippet
