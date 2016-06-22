@@ -14,7 +14,10 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
-		"*.css"
+		"*.css",
+		"node_modules/",
+		"bower_components/",
+		"build/"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
@@ -83,7 +86,7 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"sidebar_font_small": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
