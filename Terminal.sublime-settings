@@ -1,4 +1,4 @@
 {
-    "terminal": "iTerm.sh",
+    "terminal": "./Terminal/iTerm.sh",
     "parameters": ["--open-in-tab"]
 }

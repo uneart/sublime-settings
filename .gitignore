@@ -71,3 +71,4 @@ $RECYCLE.BIN/
 !*.sublime-menu
 !*.sublime-menu
 !*.tmTheme
+!*.sh
