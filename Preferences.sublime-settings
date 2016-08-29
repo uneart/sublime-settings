@@ -75,9 +75,6 @@
 	"ignored_packages":
 	[
 		"CSS",
-		"LaTeX",
-		"LaTeX Snippets",
-		"LaTeXTools",
 		"Markdown",
 		"Vintage"
 	],
